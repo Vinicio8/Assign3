@@ -1,0 +1,5 @@
+Q1. What’s const-correctness and why is it important?
+Is a concept that ensures variables, pointers, and functions parameters that should not be modified.
+
+Q2. Is your class const-correct? How do you know?
+Yes, because all the metods that only read data are stablished like a const this guarantees that they can not be modified
